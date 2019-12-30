@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSpotify</string>
+    <string-array name="tabs">
+        <item>Radios</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
